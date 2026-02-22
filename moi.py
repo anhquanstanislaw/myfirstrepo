@@ -1,0 +1,1 @@
+print("hom nay an gi moi nguoi oi")
