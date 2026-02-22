@@ -13,8 +13,8 @@ typedef struct{
 }Tile; // state of each tile (number of fish and owner)
 
 typedef struct{
-    int rows;
-    int columns;
+    int rows;// these are the rows
+    int columns;//here are the columns
     int penguins_per_player;
 
     Tile board[50][50];
